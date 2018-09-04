@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 app-text/podofo
+DESCRIPTION=A command line paperport max to PDF file converter
+EAPI=6
+HOMEPAGE=https://github.com/orangeturtle739/max2pdf
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 app-text/podofo
+SLOT=0
+SRC_URI=https://github.com/orangeturtle739/max2pdf/archive/v1.0.0.tar.gz
+_md5_=f4eba11192d6101434aec49f93f59a90
