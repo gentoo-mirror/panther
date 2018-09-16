@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DEPEND=sys-devel/flex sys-devel/bison
+DESCRIPTION=The fastest free Verilog HDL simulator
+EAPI=7
+HOMEPAGE=https://www.veripool.org/wiki/verilator
+KEYWORDS=amd64
+LICENSE=LGPL-3
+SLOT=0
+SRC_URI=http://www.veripool.org/ftp/verilator-3.876.tgz
+_md5_=6f8620b29df04b70639a26b10ae21097
