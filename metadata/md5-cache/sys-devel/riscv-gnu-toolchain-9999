@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install unpack
+DEPEND=sys-devel/autoconf sys-devel/automake dev-libs/mpc net-misc/curl dev-libs/mpfr dev-libs/gmp sys-apps/gawk sys-devel/bison sys-devel/flex sys-apps/texinfo dev-util/gperf sys-devel/libtool dev-util/patchutils sys-devel/bc sys-libs/zlib dev-libs/expat >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=GNU toolchain for RISC-V, including GCC
+EAPI=5
+HOMEPAGE=https://github.com/riscv/riscv-gnu-toolchain
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RESTRICT=strip
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=511f4838495e350baf832b663c28eeb4
