@@ -1,4 +1,4 @@
-DEFINED_PHASES=configure install unpack
+DEFINED_PHASES=configure install prepare unpack
 DEPEND=sys-devel/autoconf sys-devel/automake dev-libs/mpc net-misc/curl dev-libs/mpfr dev-libs/gmp sys-apps/gawk sys-devel/bison sys-devel/flex sys-apps/texinfo dev-util/gperf sys-devel/libtool dev-util/patchutils sys-devel/bc sys-libs/zlib dev-libs/expat >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=GNU toolchain for RISC-V, including GCC
 EAPI=5
@@ -8,5 +8,5 @@ KEYWORDS=~amd64
 LICENSE=GPL-2
 RESTRICT=strip
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=d19ecfa5a40ee82cf14e1d10796d5e4f
+_eclasses_=epatch	a1bf4756dba418a7238f3be0cb010c54	git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=4955d16313d41921b043b5b52f2b805e
