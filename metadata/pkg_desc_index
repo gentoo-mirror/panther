@@ -1,3 +1,12 @@
 app-crypt/staticgpg 1.4.21: The GNU Privacy Guard (statically linked, no-pinentry version)
-app-misc/ckb-next 0.3.1 0.3.2 0.4.0: RGB Driver for Linux and macOS
+app-misc/ckb-next 0.2.9 0.3.1 0.3.2 0.4.0 9999: RGB Driver for Linux and macOS
+kde-misc/krename 5.0.0-r1 5.0.0-r2: Powerful batch file renamer
+media-gfx/max2pdf 1.0.0 1.0.1 1.0.2 1.0.3: A command line paperport max to PDF file converter
+net-misc/can-utils 9999: CAN Bus utilities.
+net-misc/mlvpn 2.3.1: Multilink VPN
+net-misc/unison 9999: Two-way cross-platform file synchronizer
+net-vpn/nordnm 0.6.1 0.7.1: A CLI tool for NordVPN
+net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
+sci-electronics/quartus-prime-lite 18.1.0.625: Full-featured EDA product for altera devices
 sci-electronics/verilator 3.876 3.926 4.002: The fastest free Verilog HDL simulator
+sys-devel/riscv-gnu-toolchain 9999: GNU toolchain for RISC-V, including GCC
