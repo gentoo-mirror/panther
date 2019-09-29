@@ -1,4 +1,5 @@
 app-admin/bitwarden-cli-bin 1.7.4: Bitwarden CLI
+app-arch/dtrx 7.1: Intelligent archive extraction
 app-crypt/staticgpg 1.4.21: The GNU Privacy Guard (statically linked, no-pinentry version)
 app-misc/ckb-next 0.4.0 0.4.1 9999: RGB Driver for Linux and macOS
 kde-misc/krename 5.0.0-r1 5.0.0-r2: Powerful batch file renamer
