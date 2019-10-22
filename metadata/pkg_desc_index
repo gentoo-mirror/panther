@@ -2,6 +2,7 @@ app-admin/bitwarden-cli-bin 1.7.4: Bitwarden CLI
 app-arch/dtrx 7.1: Intelligent archive extraction
 app-crypt/staticgpg 1.4.21: The GNU Privacy Guard (statically linked, no-pinentry version)
 app-misc/ckb-next 0.4.0 0.4.1 0.4.2 9999: RGB Driver for Linux and macOS
+kde-misc/krename 5.0.0-r1 5.0.0-r2: Powerful batch file renamer
 media-gfx/max2pdf 1.0.0 1.0.1 1.0.2 1.0.3: A command line paperport max to PDF file converter
 net-misc/can-utils 9999: CAN Bus utilities.
 net-vpn/mlvpn 2.3.1: Multilink VPN
