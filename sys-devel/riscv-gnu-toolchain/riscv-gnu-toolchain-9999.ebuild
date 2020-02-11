@@ -1,6 +1,6 @@
-EAPI=5
+EAPI=7
 
-inherit git-r3 epatch
+inherit git-r3
 
 DESCRIPTION="GNU toolchain for RISC-V, including GCC"
 HOMEPAGE="https://github.com/riscv/riscv-gnu-toolchain"
@@ -32,9 +32,7 @@ RDEPEND=""
 
 RESTRICT="strip"
 
-src_prepare() {
-	epatch "${FILESDIR}/multilib-rv64im-lp64.patch"
-}
+PATCHES="${FILESDIR}/multilib-rv64im-lp64.patch"
 
 src_configure() {
 	econf --prefix="$T/install/opt/riscv" --enable-multilib
