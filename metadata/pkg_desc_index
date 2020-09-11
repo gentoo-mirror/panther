@@ -12,3 +12,4 @@ net-wireless/broadcom-sta 6.30.223.271-r5 6.30.223.271-r6: Broadcom's IEEE 802.1
 sci-electronics/quartus-prime-lite 18.1.0.625: Full-featured EDA product for altera devices
 sci-electronics/verilator 3.876 3.926 4.002: The fastest free Verilog HDL simulator
 sys-devel/riscv-gnu-toolchain 9999: GNU toolchain for RISC-V, including GCC
+sys-kernel/genkernel-next 69: Gentoo automatic kernel building scripts, reloaded
