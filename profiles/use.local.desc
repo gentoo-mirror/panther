@@ -2,15 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-arch/dtrx:7z - support for 7zip
-app-arch/dtrx:cab - support for cabextract
-app-arch/dtrx:cpio - support for cpio
-app-arch/dtrx:deb - support for deb
-app-arch/dtrx:installshield - support for unshield
-app-arch/dtrx:lha - support for lha
-app-arch/dtrx:rar - support for rar
-app-arch/dtrx:rpm - support for rpm
-app-arch/dtrx:tar - support for tar
 sys-kernel/genkernel-next:cryptsetup - Enable support for Luks disk enrcyption using sys-fs/cryptsetup
 sys-kernel/genkernel-next:dmraid - Enable support for DMRAID (include dmraid dependency)
 sys-kernel/genkernel-next:gpg - Enable support for GPG (include gnupg dependency)
